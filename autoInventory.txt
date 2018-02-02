@@ -1,0 +1,15 @@
+14 7
+Ford    ;Mustang    ;2009;Good     ; 65000; 11000;123456789A;
+Ford    ;Focus      ;2011;Very_Good; 30000;  9000;123456789B;
+Honda   ;CR-V       ;2012;Excellent; 33000; 22495;123456789C;
+Lincoln ;MKS        ;2009;Very_Good; 50000; 18495;123456789D;
+Honda   ;Odyssey    ;2013;Excellent; 14000; 28495;123456789E;
+Honda   ;Acura MDX  ;2013;Excellent; 19000; 31995;123456789F;
+Audi    ;Q5         ;2011;Very_Good; 50000; 29495;123456789G;
+Dodge   ;Avenger    ;2012;Very_Good; 45000; 18843;123456789H;
+BMW     ;3-Series   ;2011;Very_Good; 60000; 26495;123456789I;
+Subaru  ;Legacy     ;2008;Good     ; 90000; 13997;123456789J;
+Subaru  ;Outback    ;2012;Very_Good; 38000; 18999;123456789K;
+Buick   ;Lucerne    ;2009;Good     ; 50000; 13997;123456789L;
+Ford    ;Focus      ;2012;Very_Good; 42000; 11997;123456789M;
+Nissan  ;Sentra     ;2012;Very_Good; 30000; 12587;123456789N;
